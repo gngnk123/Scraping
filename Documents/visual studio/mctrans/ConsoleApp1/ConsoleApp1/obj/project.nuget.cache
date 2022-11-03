@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2PUDjyl6NSXZs362kq9lt3j/a14FrjYZsddF3v1B/9ATbanFMbSiKEQUTkRZhnBr+Uz4fIWRJ6f4XBXNMOj3IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NIKA\\Documents\\visual studio\\mctrans\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NIKA\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
