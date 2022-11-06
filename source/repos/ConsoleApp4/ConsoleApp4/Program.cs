@@ -32,6 +32,7 @@ namespace ConsoleApp4
             for (int i = 2; i < 10; i++)
             {
                 var Copart = driver.FindElement(By.XPath("//*[@id=\"auc_id\"]/option["+i+"]"));
+                
                 Copart.Click();
                 Thread.Sleep(1000);
 
@@ -46,6 +47,7 @@ namespace ConsoleApp4
                 for (int x = 2; x < 235; x++)
                 {
                     var AL_ANC = driver.FindElement(By.XPath("//*[@id=\"city_id\"]/option["+x+"]"));
+                    
                     AL_ANC.Click();
                   
 
@@ -59,9 +61,8 @@ namespace ConsoleApp4
                     {
 
                         var nj = driver.FindElement(By.XPath("//*[@id=\"port_id\"]/option["+y+"]"));
+                        
                         nj.Click();
-             
-
 
                         var body1 = driver.FindElement(By.XPath("/html/body/div/div[1]"));
                         body1.Click();
@@ -69,7 +70,12 @@ namespace ConsoleApp4
                         var value = driver.FindElements(By.XPath("//*[@id=\"data3\"]"));
                         foreach (var item in value)
                         {
-                            Console.WriteLine(item.Text);
+                            if (item.Text != "0 US$" &&  item.Text != "0US$") {
+                                Console.Write(Copart.Text + "   ");
+                                Console.Write(AL_ANC.Text + "   ");
+                                Console.Write(nj.Text + "   -");
+                                Console.Write(item.Text + "\n");
+                            }
                         }
                     }
                 }
