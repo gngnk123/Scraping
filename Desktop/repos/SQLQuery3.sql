@@ -1,4 +1,12 @@
+create database Mctrans
 use Mctrans
+create table Mc_Price(
+	   Id int primary key,
+       Auction nvarchar(50),
+       State_City nvarchar(50),
+       USA_Port nvarchar(50),
+	   Price nvarchar(50)
+)
 
 go
 CREATE PROCEDURE sp_insert
