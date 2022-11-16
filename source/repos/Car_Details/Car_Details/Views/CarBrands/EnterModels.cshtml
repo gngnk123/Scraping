@@ -1,0 +1,17 @@
+﻿@model CarBrandsModel
+
+<form asp-controller="CarBrands" asp-action="Details" method="POST">
+    <div>
+        @Html.TextBoxFor(m=>m.Br_Name)
+    </div>
+    <div>
+        @Html.TextBoxFor(m=>m.Model)
+    </div>
+    <div>
+        @Html.TextBoxFor(m=>m.Year)
+    </div>
+    <button type = "submit">Details</button>
+</form>
+
+
+@Html.PartialAsync("Details");
