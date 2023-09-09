@@ -5,48 +5,49 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Car_Details
 build_property.RootNamespace = Car_Details
-build_property.ProjectDir = C:\Users\NIKA\source\repos\Car_Details\Car_Details\
+build_property.ProjectDir = /Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\NIKA\source\repos\Car_Details\Car_Details
+build_property.MSBuildProjectDirectory = /Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/NIKA/source/repos/Car_Details/Car_Details/Views/CarBrands/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyQnJhbmRzXERldGFpbHMuY3NodG1s
+[/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Views/CarBrands/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyQnJhbmRzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NIKA/source/repos/Car_Details/Car_Details/Views/CarBrands/EnterModels.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyQnJhbmRzXEVudGVyTW9kZWxzLmNzaHRtbA==
+[/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Views/CarBrands/EnterModels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyQnJhbmRzL0VudGVyTW9kZWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NIKA/source/repos/Car_Details/Car_Details/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NIKA/source/repos/Car_Details/Car_Details/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NIKA/source/repos/Car_Details/Car_Details/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NIKA/source/repos/Car_Details/Car_Details/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NIKA/source/repos/Car_Details/Car_Details/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NIKA/source/repos/Car_Details/Car_Details/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NIKA/source/repos/Car_Details/Car_Details/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-isq4l05dme
+[/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lftsfqj4xy

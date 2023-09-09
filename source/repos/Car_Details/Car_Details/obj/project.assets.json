@@ -8,31 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\NIKA\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/nikagongadze/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NIKA\\source\\repos\\Car_Details\\Car_Details\\Car_Details.csproj",
+      "projectUniqueName": "/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Car_Details.csproj",
       "projectName": "Car_Details",
-      "projectPath": "C:\\Users\\NIKA\\source\\repos\\Car_Details\\Car_Details\\Car_Details.csproj",
-      "packagesPath": "C:\\Users\\NIKA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NIKA\\source\\repos\\Car_Details\\Car_Details\\obj\\",
+      "projectPath": "/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/Car_Details.csproj",
+      "packagesPath": "/Users/nikagongadze/.nuget/packages/",
+      "outputPath": "/Users/nikagongadze/Desktop/projects/Scraping/source/repos/Car_Details/Car_Details/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\NIKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nikagongadze/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -69,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
       }
     }
   }
